@@ -4,6 +4,8 @@
 
 A responsive e-commerce frontend built with **Nuxt 4** (SPA mode). Features a catalog with category navigation, product detail pages, client-side search, and dynamic filtering — all powered by mock data.
 
+Live preview: [https://online-store-le95.onrender.com/](link).
+
 ## Tech Stack
 
 | | |
