@@ -1,0 +1,27 @@
+{
+  "name": "nuxt-spa-boilerplate",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "dependencies": {
+    "nuxt": "^4.4.8"
+  },
+  "devDependencies": {
+    "@nuxtjs/color-mode": "^4.0.1",
+    "pug": "3.0.4",
+    "sass": "^1.101.0"
+  },
+  "overrides": {
+    "tmp": "0.2.7",
+    "cookie": "0.7.0",
+    "braces": "3.0.3",
+    "defu": "6.1.7",
+    "elliptic": "6.6.1"
+  }
+}
